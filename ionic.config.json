@@ -1,0 +1,7 @@
+{
+  "name": "pushNot",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
